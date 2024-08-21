@@ -1,0 +1,4 @@
+(executable
+ (public_name new_shite)
+ (name main)
+ (libraries new_shite))
