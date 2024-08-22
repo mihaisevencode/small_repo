@@ -1,4 +1,4 @@
-let limit = 100_000
+let limit = 1_000_000
 
 let get_random_string () =
   Random.self_init ();
